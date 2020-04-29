@@ -1,0 +1,2 @@
+10进制数转n进制：https://blog.csdn.net/chenzhanpeng_/article/details/105555863
+初识数组：https://blog.csdn.net/chenzhanpeng_/article/details/105623551
