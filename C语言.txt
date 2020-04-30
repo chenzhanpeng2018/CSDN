@@ -1,2 +1,5 @@
 10进制数转n进制：https://blog.csdn.net/chenzhanpeng_/article/details/105555863
+三种循环：https://blog.csdn.net/chenzhanpeng_/article/details/105557933
+二分查找（折半查找）：https://blog.csdn.net/chenzhanpeng_/article/details/105588747
+递归的简单认识：https://blog.csdn.net/chenzhanpeng_/article/details/105606635
 初识数组：https://blog.csdn.net/chenzhanpeng_/article/details/105623551
